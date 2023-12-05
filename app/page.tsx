@@ -1,3 +1,5 @@
+import CountryCard from "@/components/country-card";
+
 export type Country = {
   name: {
     common: string;
